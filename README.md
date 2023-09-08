@@ -1,4 +1,4 @@
-# Software Test Final Project
+# ATM BANK APPLICATION
 Simple bank application, developed using NetBeans IDE 8.2\
 Database: Java DB 
 ### To run the app u'll need the JAR file, 2 database folder (the user accounts and transaction history database) and the lib folder \
