@@ -1,0 +1,12 @@
+
+Existing Accounts-
+
+Clerk:
+ID:100000 , Password:222222   
+
+Customer Accounts:	
+ID:100001 , Password:222222  , role:checking account
+ID:100002 , Password:222222  , role:saving account
+ID:100003 , Password:222222  , role:credit account
+ID:100004 , Password:222222  , role:checking account
+ID:100005 , Password:222222  , role:checking account
