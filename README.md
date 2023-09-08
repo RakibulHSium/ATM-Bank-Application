@@ -12,12 +12,22 @@ Database: Java DB
 
 ## Default accounts
 Clerk's account: 
-  Account number: 100000000
-  PIN: 123456
+
+Existing Accounts-
+
+Clerk:
+ID:100000 , Password:222222   
+
+Customer Accounts:	
+ID:100001 , Password:222222  , role:checking account
+ID:100002 , Password:222222  , role:saving account
+ID:100003 , Password:222222  , role:credit account
+ID:100004 , Password:222222  , role:checking account
+ID:100005 , Password:222222  , role:checking account
 
 Customer's account:
-  Account number: 100000001 - 100000009
-  PIN: 123456
+  Account number: 100001 - 100005
+  PIN: 222222
   
  # Application's screenshots:
  
