@@ -1,0 +1,90 @@
+
+
+Version:	3.14
+CmdLine:	C:\Users\shahe\Desktop\javaprojects\bankatm\Atm.exe --l4j-debug
+WOW64:		yes
+Create mutex:	ATM
+Working dir:	C:\Users\shahe\Desktop\javaprojects\bankatm\.
+Java min ver:	1.000.001
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_291\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_291
+Check launcher:	C:\Program Files\Java\jre1.8.0_291\bin\javaw.exe (OK)
+Match:		1.008.000_291
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_111
+Ignore:		1.008.000_111
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_291 (64-bit)
+Main class:	bankatm.Bankatm
+Add classpath:	lib\mysql-connector-java-5.1.45-bin.jar
+Launcher:	C:\Program Files\Java\jre1.8.0_291\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\shahe\Desktop\javaprojects\bankatm\Atm.exe;lib\mysql-connector-java-5.1.45-bin.jar" bankatm.Bankatm
+Args length:	120/32768 chars
+Exit code:	0
+
+
+Version:	3.14
+CmdLine:	C:\Users\shahe\Desktop\javaprojects\bankatm\Atm.exe --l4j-debug
+WOW64:		yes
+Create mutex:	ATM
+Working dir:	C:\Users\shahe\Desktop\javaprojects\bankatm\.
+Java min ver:	1.000.001
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_291\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_291
+Check launcher:	C:\Program Files\Java\jre1.8.0_291\bin\javaw.exe (OK)
+Match:		1.008.000_291
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_111
+Ignore:		1.008.000_111
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_291 (64-bit)
+Main class:	bankatm.Bankatm
+Add classpath:	lib\mysql-connector-java-5.1.45-bin.jar
+Launcher:	C:\Program Files\Java\jre1.8.0_291\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\shahe\Desktop\javaprojects\bankatm\Atm.exe;lib\mysql-connector-java-5.1.45-bin.jar" bankatm.Bankatm
+Args length:	120/32768 chars
+Exit code:	0
+
+
+Version:	3.14
+CmdLine:	C:\Users\shahe\Desktop\javaprojects\bankatm\ATM.exe --l4j-debug
+WOW64:		yes
+Create mutex:	ATM
+Working dir:	C:\Users\shahe\Desktop\javaprojects\bankatm\.
+Java min ver:	1.000.001
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_291\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_291
+Check launcher:	C:\Program Files\Java\jre1.8.0_291\bin\javaw.exe (OK)
+Match:		1.008.000_291
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_111
+Ignore:		1.008.000_111
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_291 (64-bit)
+Main class:	bankatm.Bankatm
+Add classpath:	lib\mysql-connector-java-5.1.45-bin.jar
+Launcher:	C:\Program Files\Java\jre1.8.0_291\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\shahe\Desktop\javaprojects\bankatm\ATM.exe;lib\mysql-connector-java-5.1.45-bin.jar" bankatm.Bankatm
+Args length:	120/32768 chars
+Exit code:	0
